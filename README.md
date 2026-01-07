@@ -1,2 +1,2 @@
-# EJZ
+# sql-playground
 remote controller
